@@ -3,6 +3,9 @@
 ## Overview
 This repository contains a garbage sorting model implemented using the MobileNetV2 architecture. The model is trained to classify images into 12 different categories representing various types of garbage.
 
+## Link to the used dataset
+https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+
 ## Model Architecture
 MobileNetV2 Base: The model utilizes the MobileNetV2 architecture as its base, followed by a Global Average Pooling layer.
 
